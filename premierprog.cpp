@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+/*
+Ce programme est une révision de C++
+*/
+
 //variables
 int a=10;
 int valeur_entree=0;
